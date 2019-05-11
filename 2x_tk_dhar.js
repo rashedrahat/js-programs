@@ -1,4 +1,4 @@
-// asking money from a friend based on the total price of things.
+// a program that will ask money from a person based on the total price of things.
 
 var chalerDam = 55;
 var daalerDam = 80;
@@ -21,4 +21,5 @@ function dharDe(amount) {
 var total = sum(chalerDam, daalerDam);
 var dharLagbe = duiGoonKor(total);
 var tkPaisi = dharDe(dharLagbe);
+
 console.log(tkPaisi);
