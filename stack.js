@@ -1,4 +1,4 @@
-// a program that pushes values in an array one by one and remove from it according to LIFO.
+// a program that pushes elements in an array one by one and remove from it according to LIFO.
 
 var books = [];
 
