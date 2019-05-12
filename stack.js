@@ -9,4 +9,5 @@ books.push("Computer Fundamentals");
 console.log(books);
 
 books.pop();
+
 console.log(books);
