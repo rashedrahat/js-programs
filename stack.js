@@ -5,6 +5,8 @@ var books = [];
 books.push("Data Structure");
 books.push("Algorithm");
 books.push("Computer Fundamentals");
-books.pop();
 
+console.log(books);
+
+books.pop();
 console.log(books);
